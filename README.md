@@ -13,5 +13,5 @@ That is you should be able to:-
 4. delete data
 
 Libraries that are used are Volley .
-see video for implementation
+see video for DEMO
 https://youtu.be/uQsbOMN_xoY
