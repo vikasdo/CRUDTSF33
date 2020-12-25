@@ -4,7 +4,7 @@ This project works with REST api and updates all information of student with a l
 
 
 Develop an app with reference to the screens 
-Integrated the already built REST API’s (Link to documentation:- https://goo.gl/YtkSxC )
+Integrated the already built REST API’s (Link to api setup:- https://goo.gl/YtkSxC )
 The screens are selected so that the app should be CRUDable.
 That is you should be able to:-
 1. Insert data
